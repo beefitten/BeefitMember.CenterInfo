@@ -5,37 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5ba0dd-abed-4042-b719-bfa0cb35b1b8" name="Default Changelist" comment="Created Persistence project by copying BeefitMember.User">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BeefitMember.CenterInfo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BeefitMember.CenterInfo/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BeefitMember.CenterInfo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BeefitMember.CenterInfo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BeefitMember.CenterInfo.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BeefitMember.CenterInfo.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Domain.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net5.0/Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net5.0/Domain.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/AppConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/AppConfig.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/Persistence.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/Persistence.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/Persistence.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Persistence.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/Persistence.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Persistence.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Services/CenterInformationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Services/CenterInformationService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Services/ICenterInformationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Services/ICenterInformationService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net5.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net5.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net5.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net5.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Models/CenterInformationModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/Models/CenterInformationModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Models/CenterInformationMongoModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/Models/CenterInformationMongoModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/ref/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/ref/Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/Controllers/CenterInformationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/Controllers/CenterInformationController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/RestAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/RestAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/RestAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/RestAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/ref/RestAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/ref/RestAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/RestAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/RestAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/RestAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/RestAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/ref/RestAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/ref/RestAPI.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +76,6 @@
       <option value="$PROJECT_DIR$/Persistence/Models/CenterInformationReturnModel.cs" />
       <option value="$PROJECT_DIR$/Persistence/Setup/ServiceCollection.cs" />
       <option value="$PROJECT_DIR$/Persistence/Setup/ServiceCollectionExtensions.cs" />
-      <option value="$PROJECT_DIR$/Persistence/Models/CenterInformationMongoModel.cs" />
-      <option value="$PROJECT_DIR$/Persistence/Models/CenterInformationModel.cs" />
       <option value="$PROJECT_DIR$/RestAPI/Models/CenterInformationModel.cs" />
       <option value="$PROJECT_DIR$/Persistence/Repositories/ICenterInformationRepository.cs" />
       <option value="$PROJECT_DIR$/Persistence/Repositories/CenterInformationRepository.cs" />
@@ -86,9 +83,13 @@
       <option value="$PROJECT_DIR$/Domain/ServiceCollectionExtensions.cs" />
       <option value="$PROJECT_DIR$/RestAPI/ServiceCollectionExtensions.cs" />
       <option value="$PROJECT_DIR$/RestAPI/Startup.cs" />
+      <option value="$PROJECT_DIR$/Domain/Services/CenterInformationService.cs" />
+      <option value="$PROJECT_DIR$/RestAPI/appsettings.json" />
+      <option value="$PROJECT_DIR$/Persistence/Models/Tuples.cs" />
+      <option value="$PROJECT_DIR$/Persistence/Models/CenterInformationModel.cs" />
+      <option value="$PROJECT_DIR$/Persistence/Models/CenterInformationMongoModel.cs" />
       <option value="$PROJECT_DIR$/RestAPI/Controllers/CenterInformationController.cs" />
       <option value="$PROJECT_DIR$/Domain/Services/ICenterInformationService.cs" />
-      <option value="$PROJECT_DIR$/Domain/Services/CenterInformationService.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1yqhRMMFvTSSxJGbyT8KYqVRtid" />
@@ -154,7 +155,7 @@
       <updated>1632985017128</updated>
       <workItem from="1632985022232" duration="510000" />
       <workItem from="1632987021900" duration="3387000" />
-      <workItem from="1634741392934" duration="9711000" />
+      <workItem from="1634741392934" duration="12975000" />
     </task>
     <task id="LOCAL-00001" summary="Created Domain Project">
       <created>1633000289976</created>

@@ -18,10 +18,10 @@ namespace RestAPI.Controllers
         }
         
         [HttpGet]
-        [Route("/getCenterInformation/{centerId}")]
-        public async Task<CenterInformationModel> GetCenterInformation(string centerId)
+        [Route("/getCenterInformation/{centerName}")]
+        public async Task<CenterInformationModel> GetCenterInformation(string centerName)
         { 
-            return await _service.GetCenterInformation(centerId);
+            return await _service.GetCenterInformation(centerName);
         }
 
         [HttpPost]

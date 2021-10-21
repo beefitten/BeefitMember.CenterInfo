@@ -7,6 +7,6 @@ namespace Domain.Services
     public interface ICenterInformationService
     {
         Task<HttpStatusCode> AddCenterInformation(CenterInformationModel model);
-        Task<CenterInformationModel> GetCenterInformation(string centerId);
+        Task<CenterInformationModel> GetCenterInformation(string centerName);
     }
 }

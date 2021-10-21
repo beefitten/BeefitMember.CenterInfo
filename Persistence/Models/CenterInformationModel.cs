@@ -5,11 +5,11 @@ namespace Persistence.Models
     public record CenterInformationModel(
         string Name,
         string Location,
-        List<(string, string)> OpeningHours,
-        List<(string, string)> MannedHours,
+        List<Tuples.OpeningHours> OpeningHours,
+        List<Tuples.OpeningHours> MannedHours,
         string Email,
         string PhoneNumber,
-        List<(int, double)> HeatMapDataPoints,
+        List<Tuples.DataPoint> HeatMapDataPoints,
         string Latitude,
         string Longitude
     );

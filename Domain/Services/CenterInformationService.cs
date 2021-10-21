@@ -19,9 +19,9 @@ namespace Domain.Services
             return await _repository.AddCenterInformation(model);
         }
 
-        public async Task<CenterInformationModel> GetCenterInformation(string centerId)
+        public async Task<CenterInformationModel> GetCenterInformation(string centerName)
         {
-            return await _repository.GetCenterInformation(centerId);
+            return await _repository.GetCenterInformation(centerName);
         }
     }
 }
