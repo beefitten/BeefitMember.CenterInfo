@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexandermolholm/Documents/IKT/7.Semester/Bachelorprojekt/Repos/BeefitMember.CenterInfo/Tests/Tests.csproj": {}
+    "/Users/nikolajhuynh/Documents/Bachelor/BeefitMember.CenterInfo/Tests/Tests.csproj": {}
   },
   "projects": {
-    "/Users/alexandermolholm/Documents/IKT/7.Semester/Bachelorprojekt/Repos/BeefitMember.CenterInfo/Tests/Tests.csproj": {
+    "/Users/nikolajhuynh/Documents/Bachelor/BeefitMember.CenterInfo/Tests/Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexandermolholm/Documents/IKT/7.Semester/Bachelorprojekt/Repos/BeefitMember.CenterInfo/Tests/Tests.csproj",
+        "projectUniqueName": "/Users/nikolajhuynh/Documents/Bachelor/BeefitMember.CenterInfo/Tests/Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "/Users/alexandermolholm/Documents/IKT/7.Semester/Bachelorprojekt/Repos/BeefitMember.CenterInfo/Tests/Tests.csproj",
-        "packagesPath": "/Users/alexandermolholm/.nuget/packages/",
-        "outputPath": "/Users/alexandermolholm/Documents/IKT/7.Semester/Bachelorprojekt/Repos/BeefitMember.CenterInfo/Tests/obj/",
+        "projectPath": "/Users/nikolajhuynh/Documents/Bachelor/BeefitMember.CenterInfo/Tests/Tests.csproj",
+        "packagesPath": "/Users/nikolajhuynh/.nuget/packages/",
+        "outputPath": "/Users/nikolajhuynh/Documents/Bachelor/BeefitMember.CenterInfo/Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alexandermolholm/.nuget/NuGet/NuGet.Config"
+          "/Users/nikolajhuynh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
