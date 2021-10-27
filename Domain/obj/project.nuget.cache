@@ -1,8 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "lOGkxouxFFwsvKTHCiMl8+pAE9RPgPtQGyWMBw5Hem0j0M18vLkf3ZIuw+HMHmv50q/GBPOOzlIVlDf/nsAyYQ==",
+  "dgSpecHash": "/uXVt4FfR1jan2HUoskD7fnk8TkXrepr+n83iVosaAOvbzf++HPoqEHfyAFvpSi387uD4UQBuTfzhOClCEnKHQ==",
   "success": true,
-  "projectFilePath": "/Users/alexandermolholm/Documents/IKT/7.Semester/Bachelorprojekt/Repos/BeefitMember.CenterInfo/Domain/Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/nikolajhuynh/Documents/Bachelor/BeefitMember.CenterInfo/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikolajhuynh/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/mongodb.bson/2.13.2/mongodb.bson.2.13.2.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/mongodb.driver/2.13.2/mongodb.driver.2.13.2.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/mongodb.driver.core/2.13.2/mongodb.driver.core.2.13.2.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/mongodb.libmongocrypt/1.2.2/mongodb.libmongocrypt.1.2.2.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/sharpcompress/0.23.0/sharpcompress.0.23.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/nikolajhuynh/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
