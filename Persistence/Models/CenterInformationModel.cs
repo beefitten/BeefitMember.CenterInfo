@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace Persistence.Models
@@ -5,11 +6,11 @@ namespace Persistence.Models
     public record CenterInformationModel(
         string Name,
         string Location,
-        List<Tuples.OpeningHours> OpeningHours,
-        List<Tuples.OpeningHours> MannedHours,
+        List<Tuple<string, string>> OpeningHours,
+        List<Tuple<string, string>> MannedHours,
         string Email,
         string PhoneNumber,
-        List<Tuples.DataPoint> HeatMapDataPoints,
+        List<Tuple<string, string>> HeatMapDataPoints,
         string Latitude,
         string Longitude
     );

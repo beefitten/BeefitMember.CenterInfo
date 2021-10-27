@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using MongoDB.Bson.Serialization.Attributes;
 
@@ -16,11 +17,11 @@ namespace Persistence.Models
         
         [BsonRequired]
         [BsonElement("OpeningHours")]
-        public List<Tuples.OpeningHours> OpeningHours { get; set; }
+        public List<Tuple<string, string>> OpeningHours { get; set; }
         
         [BsonRequired]
         [BsonElement("MannedHours")]
-        public List<Tuples.OpeningHours> MannedHours { get; set; }
+        public List<Tuple<string, string>> MannedHours { get; set; }
         
         [BsonRequired]
         [BsonElement("Email")]
@@ -32,7 +33,7 @@ namespace Persistence.Models
         
         [BsonRequired]
         [BsonElement("HeatMapDataPoints")]
-        public List<Tuples.DataPoint> HeatMapDataPoints { get; set; }
+        public List<Tuple<string, string>> HeatMapDataPoints { get; set; }
         
         [BsonRequired]
         [BsonElement("Latitude")]
