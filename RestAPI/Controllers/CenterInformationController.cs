@@ -26,7 +26,7 @@ namespace RestAPI.Controllers
 
         [HttpPost]
         [Route("/addCenterInformation")]
-        public async Task<HttpStatusCode> addCenterInformation(CenterInformationModel model)
+        public async Task<HttpStatusCode> AddCenterInformation(CenterInformationModel model)
         {
             return await _service.AddCenterInformation(model);
         }
