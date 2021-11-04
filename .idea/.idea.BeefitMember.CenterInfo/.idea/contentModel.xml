@@ -81,6 +81,7 @@
       </e>
       <e p="Tests" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="CenterInformation_Should.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net5.0" t="Include">
@@ -88,8 +89,8 @@
             </e>
           </e>
         </e>
+        <e p="TestFixture.cs" t="Include" />
         <e p="Tests.csproj" t="IncludeRecursive" />
-        <e p="UnitTest1.cs" t="Include" />
       </e>
     </e>
     <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
