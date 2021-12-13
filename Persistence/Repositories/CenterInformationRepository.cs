@@ -46,7 +46,6 @@ namespace Persistence.Repositories
             {
                 return HttpStatusCode.Conflict;
             }
-            
         }
 
         public async Task<CenterInformationModel> GetCenterInformation(string centerId)

@@ -5,49 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5ba0dd-abed-4042-b719-bfa0cb35b1b8" name="Default Changelist" comment="Created Persistence project by copying BeefitMember.User">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BeefitMember.CenterInfo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BeefitMember.CenterInfo/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BeefitMember.CenterInfo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BeefitMember.CenterInfo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeefitMember.CenterInfo.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/BeefitMember.CenterInfo.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Persistence.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/net5.0/Persistence.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net5.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net5.0/Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net5.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net5.0/Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persistence/Repositories/CenterInformationRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/Repositories/CenterInformationRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/Persistence.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/Persistence.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/ref/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/bin/Debug/net5.0/ref/Persistence.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/Persistence.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/ref/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/Debug/net5.0/ref/Persistence.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Persistence/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Persistence/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/Controllers/CenterInformationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/Controllers/CenterInformationController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Persistence.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/Persistence.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/RestAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/RestAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/RestAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/RestAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/ref/RestAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/bin/Debug/net5.0/ref/RestAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/RestAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/RestAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/RestAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/RestAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/ref/RestAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/obj/Debug/net5.0/ref/RestAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestAPI/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/CenterInformation_Should.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/CenterInformation_Should.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/CenterInformation_Should.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Persistence.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Persistence.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Persistence.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Persistence.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/RestAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/RestAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/RestAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/RestAPI.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Tests.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Tests.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Tests.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/Tests.runtimeconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/ref/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net5.0/ref/Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/Tests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/Tests.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/Tests.pdb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/ref/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net5.0/ref/Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/project.packagespec.json" afterDir="false" />
@@ -95,20 +86,22 @@
       <option value="$PROJECT_DIR$/Persistence/Setup/ServiceCollectionExtensions.cs" />
       <option value="$PROJECT_DIR$/RestAPI/Models/CenterInformationModel.cs" />
       <option value="$PROJECT_DIR$/Persistence/Repositories/ICenterInformationRepository.cs" />
-      <option value="$PROJECT_DIR$/Persistence/Repositories/CenterInformationRepository.cs" />
       <option value="$PROJECT_DIR$/Domain/Models/CenterInformationModel.cs" />
       <option value="$PROJECT_DIR$/Domain/ServiceCollectionExtensions.cs" />
       <option value="$PROJECT_DIR$/RestAPI/ServiceCollectionExtensions.cs" />
       <option value="$PROJECT_DIR$/RestAPI/appsettings.json" />
       <option value="$PROJECT_DIR$/Domain/Services/ICenterInformationService.cs" />
-      <option value="$PROJECT_DIR$/Domain/Services/CenterInformationService.cs" />
-      <option value="$PROJECT_DIR$/RestAPI/Startup.cs" />
       <option value="$PROJECT_DIR$/Persistence/Models/Tuples.cs" />
       <option value="$PROJECT_DIR$/Persistence/Models/CenterInformationMongoModel.cs" />
       <option value="$PROJECT_DIR$/Persistence/Models/CenterInformationModel.cs" />
       <option value="$PROJECT_DIR$/Tests/UnitTests.cs" />
-      <option value="$PROJECT_DIR$/RestAPI/Controllers/CenterInformationController.cs" />
       <option value="$PROJECT_DIR$/Tests/TestFixture.cs" />
+      <option value="$PROJECT_DIR$/RestAPI/Controllers/CenterInformationController.cs" />
+      <option value="$PROJECT_DIR$/Persistence/Repositories/CenterInformationRepository.cs" />
+      <option value="$PROJECT_DIR$/Domain/Services/CenterInformationService.cs" />
+      <option value="$PROJECT_DIR$/Tests/Helpers.cs" />
+      <option value="$PROJECT_DIR$/RestAPI/Startup.cs" />
+      <option value="$PROJECT_DIR$/RestAPI/Program.cs" />
       <option value="$PROJECT_DIR$/Tests/CenterInformation_Should.cs" />
     </changedPaths>
   </component>
@@ -121,7 +114,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34971997" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34975636" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -359,7 +352,15 @@
       <workItem from="1632987021900" duration="3387000" />
       <workItem from="1634741392934" duration="13398000" />
       <workItem from="1634817968458" duration="4166000" />
-      <workItem from="1636011669467" duration="9177000" />
+      <workItem from="1636011669467" duration="10188000" />
+      <workItem from="1636615411109" duration="585000" />
+      <workItem from="1636723517882" duration="3721000" />
+      <workItem from="1637825510065" duration="2143000" />
+      <workItem from="1637865602176" duration="4879000" />
+      <workItem from="1637955908125" duration="6709000" />
+      <workItem from="1638208134732" duration="2314000" />
+      <workItem from="1638994485061" duration="1793000" />
+      <workItem from="1639340673494" duration="5027000" />
     </task>
     <task id="LOCAL-00001" summary="Created Domain Project">
       <created>1633000289976</created>
